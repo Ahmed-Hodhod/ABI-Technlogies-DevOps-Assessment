@@ -3,7 +3,7 @@
 This repo only contains the terraform templates of the ABI assessment for DevOps Internship. You can find the assessment requirements here for all details. 
 
 ###### Disclaimer
-  I tried to follow the best practices as much as possible, but there was an also a tradeoff between completeness and time. I was low on time so that I wanted to finish it as early as possible. For instance, I hardcoded the password and username of the RDS instance inside terraform which is not great at all. Please go ahead and modify this in case you want to integrate it to your work. 
+  I tried to follow the best practices as much as possible, but there was also a tradeoff between completeness and time. I was low on time so that I wanted to finish it as early as possible. For instance, I hardcoded the password and username of the RDS instance inside terraform which is not great at all. Please go ahead and modify this in case you want to integrate it to your work. 
 
 ### Assessment Components
 The assessment comprises mainly three tasks: 
